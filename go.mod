@@ -1,4 +1,4 @@
-module easy
+module github.com/lamber92/easy
 
 go 1.15
 
